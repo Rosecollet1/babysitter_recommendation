@@ -1,0 +1,16 @@
+{
+  "Alice": {
+    "years_of_experience_weight": 2,
+    "cpr_certified_weight": 5,
+    "hourly_rate_weight": 1,
+    "pets_friendly_weight": 3,
+    "has_transportation_weight": 2
+  },
+  "Bob": {
+    "years_of_experience_weight": 3,
+    "cpr_certified_weight": 4,
+    "hourly_rate_weight": 2,
+    "pets_friendly_weight": 1,
+    "has_transportation_weight": 3
+  }
+}
