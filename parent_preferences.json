@@ -12,5 +12,29 @@
     "hourly_rate_weight": 2,
     "pets_friendly_weight": 1,
     "has_transportation_weight": 3
+  },
+
+  "Jane": {
+    "years_of_experience_weight": 1,
+    "cpr_certified_weight": 1,
+    "hourly_rate_weight": 5,
+    "pets_friendly_weight": 5,
+    "has_transportation_weight": 5
+  },
+
+  "Amber": {
+    "years_of_experience_weight": 2,
+    "cpr_certified_weight": 1,
+    "hourly_rate_weight": 5,
+    "pets_friendly_weight": 5,
+    "has_transportation_weight": 3
+  },
+
+  "June": {
+    "years_of_experience_weight": 5,
+    "cpr_certified_weight": 1,
+    "hourly_rate_weight": 2,
+    "pets_friendly_weight": 2,
+    "has_transportation_weight": 1
   }
 }
