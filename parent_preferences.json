@@ -36,5 +36,12 @@
     "hourly_rate_weight": 2,
     "pets_friendly_weight": 2,
     "has_transportation_weight": 1
+  },
+  "Emily": {
+    "years_of_experience_weight": 0,
+    "cpr_certified_weight": 1,
+    "hourly_rate_weight": 5,
+    "pets_friendly_weight": 0,
+    "has_transportation_weight": 0
   }
 }
