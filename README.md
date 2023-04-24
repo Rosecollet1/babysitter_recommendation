@@ -47,7 +47,7 @@ venv\Scripts\activate
 
 3. Install the required libraries.
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn names
 ```
 
 
